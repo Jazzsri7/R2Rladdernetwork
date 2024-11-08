@@ -3,3 +3,4 @@ This paper presents a design and implementation of a high-performance R-2R ladde
 # A Glance at R-2R ladder network
 This paper presents a design and implementation of a high-performance R-2R ladder digital-to-analog converter (DAC) using an operational amplifier (Op-Amp). The R-2R ladder network, comprising resistors with values of R and 2R, provides a simple and cost-effective solution for converting digital signals into analog voltages. The Op-Amp, with its high gain and low output impedance, amplifies the output of the R-2R ladder, improving the overall accuracy and resolution of the DAC. The proposed design focuses on minimizing errors caused by resistor tolerances, parasitic capacitances, and Op-Amp limitations.
 # Block Diagram of R2Rladdernetwork IP
+<img width="1206" alt="Black box" src="https://github.com/user-attachments/assets/9d760fc5-35d2-414e-a6c5-04fd92b4b01f">
