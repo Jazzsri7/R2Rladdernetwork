@@ -7,3 +7,5 @@ This paper presents a design and implementation of a high-performance R-2R ladde
 
 # R2R ladder network Performance Parameters
 ![R2Rladdernetwork](https://github.com/user-attachments/assets/b030ec79-0a14-4f0a-ae79-1f57838fa0c6)
+
+# Simulation output
