@@ -10,3 +10,15 @@ This paper presents a design and implementation of a high-performance R-2R ladde
 
 # Simulation output
 ![Simulation](https://github.com/user-attachments/assets/7b3c22ef-f5cc-4736-b448-8ea3c8707907)
+
+# Future works 
+Improved Precision and Accuracy on reducing errors from resistor tolerances, parasitic capacitances, and op-amp limitations through advanced resistor technologies, digital correction, and error correction codes.
+Higher Resolution and Faster Speed on integrated circuit implementations, high-speed op-amps, and parallel R-2R ladders
+For Lower Power Consumption low-power op-amps and dynamic power management techniques are used.
+Novel Architectures for Investigate segmented R-2R ladders and time-interleaved R-2R ladders to improve performance and efficiency.
+Integrate R-2R DACs with ADCs, DSPs, and other components to create more complex and efficient systems.
+Applications in Emerging Technologies of R-2R DACs in IoT, AI, and wireless communication systems to drive innovation and advancement.
+
+# Refernces 
+1. Wei Xu, Runxi Zhang, Chunqi Shi “Research of segmented 8bit voltage-mode R-2R ladder DAC,” 21 July 2016.
+2. Lei Wang, Yasunori Fukatsu, and Kenzo Watanabe “A CMOS R-2R Ladder Digital-to-Analog Converter and Its Characterization” IMTC 2001.
