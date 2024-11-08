@@ -13,10 +13,15 @@ This paper presents a design and implementation of a high-performance R-2R ladde
 
 # Future works 
 Improved Precision and Accuracy on reducing errors from resistor tolerances, parasitic capacitances, and op-amp limitations through advanced resistor technologies, digital correction, and error correction codes.
+
 Higher Resolution and Faster Speed on integrated circuit implementations, high-speed op-amps, and parallel R-2R ladders
+
 For Lower Power Consumption low-power op-amps and dynamic power management techniques are used.
+
 Novel Architectures for Investigate segmented R-2R ladders and time-interleaved R-2R ladders to improve performance and efficiency.
+
 Integrate R-2R DACs with ADCs, DSPs, and other components to create more complex and efficient systems.
+
 Applications in Emerging Technologies of R-2R DACs in IoT, AI, and wireless communication systems to drive innovation and advancement.
 
 # Refernces 
